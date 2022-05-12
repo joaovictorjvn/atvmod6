@@ -14,5 +14,5 @@ else:
             soma = soma + num
         else:
             mult = mult * num
-print(f'Entre os números {num1} e {num2} a soma dos números pares e multiplicação dos núumeros'
+print(f'Entre os números {num1} e {num2} a soma dos números pares e multiplicação dos números'
       f' ímpares nesse intervalo equivale respectivamente a {soma} e {mult}')
