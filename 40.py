@@ -1,4 +1,3 @@
-print("Iniciando execução.")
 maior = 0
 menor = 0
 while True:
